@@ -27,11 +27,7 @@ void loadgame();                // load information from file
 void BintoIntColor(char c2, char c3, int &kc, string &kcb);
 int BintoIntMove(char m1, char m2, char m3);
 
-int main()
-{
-    welcome();
-    menu();
-}
+int main() { welcome(); }
 
 void welcome()
 {
@@ -41,6 +37,8 @@ void welcome()
     system("PAUSE");
 
     slide();
+	
+    menu();
 }
 
 void slide()
