@@ -1,3 +1,3 @@
 # connectFour
-connect four game by cpp in console
-# Just compile in f.windows.platform and run and enjoy :)
+
+I wrote this in the first year of my university, I was so pleased to code cpp back then, I'm not now ;)
